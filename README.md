@@ -1,10 +1,59 @@
-- 👋 Hi, I’m @Sahildevs
-- 👀 I’m interested in building native mobile applications from it's concept till its launch
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on android products
-- 📫 How to reach me ...iamsahil061@gmail.com
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/C4E16AQHAK87TubW6VA/profile-displaybackgroundimage-shrink_350_1400/0/1633503326941?e=1689811200&v=beta&t=2CypzA3pEBm5RS2gJnBUkMQNF9mHzRHXmoyt4ELKOpg"  />
+</div>
 
-<!---
-Sahildevs/Sahildevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h3 align="center">Hey there👋, I'm Sahil</h3>
+
+###
+
+<p align="center">A Jr. Android Developer driven by an unwavering passion and an deep obsession for building remarkable Android applications from the ground up.<br><br>As an aspiring Android developer, I believe in the power of continuous learning and growth. This repository reflects my journey of honing my skills and pushing the boundaries of what's possible in Android development.</p>
+
+###
+
+<h3 align="center">My Tech Stack🧡!!</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="35" width="45" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" width="45" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" width="45" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" width="45" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" width="45" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="45" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="45" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="center">My Stats!!</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahildevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahildevs&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">Let's Connect🤝!!</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sahil-jagtap4u/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://dribbble.com/uix_sahil" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="47" height="35" alt="dribbble logo"  />
+  </a>
+  <a href="https://medium.com/@sahiljagtap9673539954" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+###
