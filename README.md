@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">A Jr. Android Developer driven by an unwavering passion and an deep obsession for building remarkable Android applications from the ground up.<br><br>As an aspiring Android developer, I believe in the power of continuous learning and growth. This repository reflects my journey of honing my skills and pushing the boundaries of what's possible in Android development.</p>
+<p align="center">A Jr. Android Developer driven by an unwavering passion and a deep obsession for building remarkable Android applications from the ground up.<br><br>As an aspiring Android developer, I believe in the power of continuous learning and growth. This repository reflects my journey of honing my skills and pushing the boundaries of what's possible in Android development.</p>
 
 ###
 
