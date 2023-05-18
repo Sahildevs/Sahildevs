@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4E16AQHAK87TubW6VA/profile-displaybackgroundimage-shrink_350_1400/0/1633503326941?e=1689811200&v=beta&t=2CypzA3pEBm5RS2gJnBUkMQNF9mHzRHXmoyt4ELKOpg"  />
+  <img height="250" src="https://media.licdn.com/dms/image/C4E16AQHAK87TubW6VA/profile-displaybackgroundimage-shrink_350_1400/0/1633503326941?e=1689811200&v=beta&t=2CypzA3pEBm5RS2gJnBUkMQNF9mHzRHXmoyt4ELKOpg"  />
 </div>
 
 ###
@@ -35,25 +35,26 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahildevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahildevs&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahildevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">Let's Connect🤝!!</h3>
+<h3 align="left">Let's Connect🤝!!</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/sahil-jagtap4u/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@sahiljagtap9673539954" target="_blank">
+    <img src="https://seeklogo.com/images/M/medium-2020-new-icon-logo-454E46D050-seeklogo.com.png" width="35" height="35" alt="medium logo"  />
   </a>
   <a href="https://dribbble.com/uix_sahil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="47" height="35" alt="dribbble logo"  />
   </a>
-  <a href="https://medium.com/@sahiljagtap9673539954" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
-  </a>
+  
 </div>
 
 ###
